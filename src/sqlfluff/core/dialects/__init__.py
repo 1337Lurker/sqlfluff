@@ -23,6 +23,7 @@ _dialect_lookup = {
     "mysql": ("dialect_mysql", "mysql_dialect"),
     "teradata": ("dialect_teradata", "teradata_dialect"),
     "postgres": ("dialect_postgres", "postgres_dialect"),
+    "redshift": ("dialect_redshift", "redshift_dialect"),
     "snowflake": ("dialect_snowflake", "snowflake_dialect"),
     "exasol": ("dialect_exasol", "exasol_dialect"),
     "exasol_fs": ("dialect_exasol_fs", "exasol_fs_dialect"),
